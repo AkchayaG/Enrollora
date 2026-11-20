@@ -1,0 +1,29 @@
+# Original working project folders - do not upload
+/enrollora-ui/
+/Enrollora_Backend/
+
+# Dependencies and build outputs
+**/node_modules/
+**/.angular/
+**/dist/
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+
+# Secrets and local configuration
+**/.env
+**/.env.*
+**/appsettings.json
+**/appsettings.Development.json
+**/appsettings.Production.json
+**/secrets.json
+**/*.pfx
+**/*.p12
+**/*.snk
+
+# Local files
+**/.vscode/
+**/*.user
+**/*.suo
+**/Thumbs.db
